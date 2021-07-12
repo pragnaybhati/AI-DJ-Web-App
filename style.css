@@ -13,3 +13,6 @@ b{
     color:black;
     font-style: italic;
 }
+canvas{
+    border:2px dashed rgb(0, 195, 255);
+}
