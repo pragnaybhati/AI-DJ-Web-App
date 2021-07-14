@@ -14,6 +14,6 @@ b{
     font-style: italic;
 }
 canvas{
-    border:2px dashed rgb(0, 195, 255);
+    border:4px dashed rgb(0, 195, 255);
     border-radius: 35px;
 }
